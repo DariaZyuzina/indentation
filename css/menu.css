@@ -1,0 +1,13 @@
+.menu__list {
+    padding-left: 25px;
+}
+
+.menu__item {
+    color: #02535F;
+}
+
+.menu__link {
+    text-decoration: none;
+    line-height: 1.82;
+    border-bottom: 1px solid #000;
+}
