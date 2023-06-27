@@ -5,10 +5,11 @@
 }
 
 .container__block {
+    max-width: 1140px;
     padding: 25px 45px;
     border-radius: 10px;
     background-color: #F1F1F1;
-    margin: 0 -30px;
+    margin: 0 auto;
 }
 
 .section {
@@ -58,7 +59,7 @@
     margin-bottom: 0;
 }
 
-.header__block {
+.header {
     padding-bottom: 50px;
 }
 
